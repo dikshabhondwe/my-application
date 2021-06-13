@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Your Age in Minutes</string>
+    <string name="select_date">SELECT DATE</string>
+</resources>
